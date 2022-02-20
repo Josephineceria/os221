@@ -1,6 +1,4 @@
----
-permalink: LINKS/
----
+
 Hello, Welcome to {{ site.author }}'s Github Page
 
 Click here to get redirected :

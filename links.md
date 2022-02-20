@@ -1,3 +1,6 @@
+---
+permalink: LINKS/
+---
 By {{ site.author }}
 
 [HOME]({{ site.baseurl }}/) ~~~ [LOG]({{ site.myloglink }}) ~~~ [GITHUB]({{ site.githublink }}) ~~~ [LINKS]({{ site.baseurl }}/LINKS/)

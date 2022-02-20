@@ -1,3 +1,7 @@
+By {{ site.author }}
+
+[HOME]({{ site.baseurl }}/) ~~~ [LOG]({{ site.myloglink }}) ~~~ [GITHUB]({{ site.githublink }})
+
 # LINKS
 
 1. [OS Official Guide](https://osp4diss.vlsm.org)<br>
@@ -20,3 +24,6 @@ A comprehensive story from another developer about using linux OS
 
 <br>
 <hr>
+&copy; {{ site.copyright }} ~~~ {{ site.author }} ~~~ Newest Version: {{ site.version }}.
+<hr>
+<br>

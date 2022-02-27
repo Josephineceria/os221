@@ -20,10 +20,16 @@ Installing VB in windows was easy, but in mac it was a bit confusing but this tu
 Virtualbox official handbook which helped me configuring basic steps.
 
 5. [Academy on Putty and SSH](https://www.ssh.com/academy/ssh/putty/windows)<br>
-Gives me step-by-step instruction on Putty and the importance of it in OS
+Gives me step-by-step instruction on Putty and the importance of it in OS.
 
 6. [A Developers Insight on Linux](https://devrant.com/rants/1281859/linux-sucks-now-now-chill-im-using-it-as-my-main-os-for-a-few-years-now-i-know-w)<br>
-A comprehensive story from another developer about using linux OS
+A comprehensive story from another developer about using linux OS.
+
+7. [Ubuntu Passphrase](https://askubuntu.com/questions/542341/enable-typing-in-passphrase-textbox-after-ubuntu-reboot-14-10)<br>
+askubuntu official website that helps with troubleshooting.
+
+8. [VirtualBox Keyboard Shortcutes](https://defkey.com/oracle-vm-virtualbox-shortcuts)<br>
+For efficiency purposes while using V Box.
 
 <br>
 <hr>

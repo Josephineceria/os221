@@ -8,14 +8,15 @@ ZCZC W00 15  L06 References Related
 ZCZC W00 100 L02 ZOOM meetings related (Tue)
 ZCZC W00 075 L02 ZOOM meetings related (Thu)
 
-ZCZC  W01 110 L02 ZOOM meetings related (Tue)
-ZCZC  W01 075 L02 ZOOM meetings related (Thu)
-ZCZC  W01 120 L11 Assignment #01 (Completed)
-ZCZC  W01 150 L12 Assignment #02 (Completed)
-ZCZC  W01 100 L13 Assignment #03 (Completed)
-ZCZC  W01 010 L14 Assignment #04 (Completed)
+ZCZC W01 110 L02 ZOOM meetings related (Tue)
+ZCZC W01 075 L02 ZOOM meetings related (Thu)
+ZCZC W01 120 L11 Assignment #01 (Completed)
+ZCZC W01 150 L12 Assignment #02 (Completed)
+ZCZC W01 100 L13 Assignment #03 (Completed)
+ZCZC W01 010 L14 Assignment #04 (Completed)
 
-ZCZC W02 180 L02 ZOOM meetings related
+ZCZC W02 110 L02 ZOOM meetings related (Tue)
+ZCZC W02 075 L02 ZOOM meetings related (Thu)
 ZCZC W02 030  L05 Quiz related
 ZCZC W02 220 L11 Assignment #01 (Completed)
 ZCZC W02 030 L12 Assignment #02 (Completed)

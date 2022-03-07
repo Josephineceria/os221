@@ -31,6 +31,15 @@ askubuntu official website that helps with troubleshooting.
 8. [VirtualBox Keyboard Shortcutes](https://defkey.com/oracle-vm-virtualbox-shortcuts)<br>
 For efficiency purposes while using V Box.
 
+9. [IP Route Discussion](https://unix.stackexchange.com/questions/145447/ifconfig-command-not-found#:~:text=You%20were%20probably%20looking%20for,ip%20from%20the%20package%20iproute2%20.)<br>
+This helped me configuring the IP address for my weekly assignments.
+
+10. [Cat Commands](https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/)<br>
+Commands for dummies, linux style.
+
+11. [Scripting mechanisms](https://www.guru99.com/introduction-to-shell-scripting.html)<br>
+Interesting take on how to do scripting with linux.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} ~~~ {{ site.author }} ~~~ Newest Version: {{ site.version }}.

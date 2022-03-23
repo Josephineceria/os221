@@ -1,7 +1,11 @@
 #!/bin/bash
 # Copyright (C) 2020-2022 Cicak Bin Kadal
 
+<<<<<<< HEAD
 WEEK="05"
+=======
+WEEK="04"
+>>>>>>> bc4997d26e3d676bb5feabe2321672bd5c465787
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 

@@ -40,6 +40,15 @@ Commands for dummies, linux style.
 11. [Scripting mechanisms](https://www.guru99.com/introduction-to-shell-scripting.html)<br>
 Interesting take on how to do scripting with linux.
 
+12. [More Scripting Hacks](https://devhints.io/bash)<br>
+A Cheat sheet into simplifying scripting.
+
+13. [GitHub Documentation](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh)<br>
+A helping hand from the official Github.
+
+14. [Information about disks](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vdidetails.html)<br>
+On virtualbox and how to use disks properly.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} ~~~ {{ site.author }} ~~~ Newest Version: {{ site.version }}.

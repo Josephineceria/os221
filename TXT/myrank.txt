@@ -1,4 +1,6 @@
 # TOP 10 Rank
-ZCZC W03 angling-darma
+ZCZC W02 angling-darma
 ZCZC W03 Jesikaavonia
-
+ZCZC W04 Jesikaavonia
+ZCZC W05 JevanWinata 
+ZCZC W05 Jesikaavonia

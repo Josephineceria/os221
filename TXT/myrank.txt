@@ -4,3 +4,5 @@ ZCZC W03 Jesikaavonia
 ZCZC W04 Jesikaavonia
 ZCZC W05 JevanWinata 
 ZCZC W05 Jesikaavonia
+ZCZC W06 angling-darma
+ZCZC W07 Jesikaavonia

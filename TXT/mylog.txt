@@ -51,6 +51,18 @@ ZCZC  W06 090 L11 Assignment #01 (Completed)
 ZCZC  W06 120 L12 Assignment #02 (Completed)
 ZCZC  W06 050 L13 Assignment #03 (Completed)
 
-ZCZC  W06 060 L11 Assignment #01 (Completed)
-ZCZC  W06 120 L12 Assignment #02 (Completed)
-ZCZC  W06 050 L13 Assignment #03 (Completed)
+ZCZC  W07 060 L11 Assignment #01 (Completed)
+ZCZC  W07 120 L12 Assignment #02 (Completed)
+ZCZC  W07 050 L13 Assignment #03 (Completed)
+
+ZCZC  W08 120 L11 Assignment #01 (Completed)
+ZCZC  W08 080 L12 Assignment #02 (Completed)
+ZCZC  W08 060 L13 Assignment #03 (Completed)
+
+ZCZC  W09 070 L11 Assignment #01 (Completed)
+ZCZC  W09 150 L12 Assignment #02 (Completed)
+ZCZC  W09 060 L13 Assignment #03 (Completed)
+
+ZCZC  W10 100 L11 Assignment #01 (Completed)
+ZCZC  W10 120 L12 Assignment #02 (Completed)
+ZCZC  W10 130 L13 Assignment #03 (Completed)
